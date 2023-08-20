@@ -1,0 +1,14 @@
+.un-ol-list {
+  list-style-type: none;
+  background-color: #272727;
+  padding: 27px;
+}
+
+.list-item {
+  font-weight: 500;
+  font-size: medium;
+  background-color: aliceblue;
+  border-radius: 10px;
+  padding: 9px;
+  margin: 9px;
+}

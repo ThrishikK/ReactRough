@@ -1,0 +1,22 @@
+.main-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.words-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.btn-styles {
+  border-radius: 9px;
+  padding: 9px;
+  margin: 9px;
+  background-color: #08768a;
+  color: white;
+  font-family: 'Times New Roman';
+  border: none;
+}

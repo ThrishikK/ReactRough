@@ -1,0 +1,13 @@
+.list-container {
+  display: flex;
+  flex-direction: row;
+  margin: 12px;
+}
+
+.star-styles {
+  margin: 20px;
+}
+
+.btn-styles {
+  margin-left: 10px;
+}

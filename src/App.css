@@ -1,0 +1,10 @@
+.main-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.unordered-list-styles {
+  list-style-type: none;
+}
